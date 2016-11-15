@@ -1,21 +1,25 @@
-# ÎÒµÄµÚÒ»¸öGitHubÏîÄ¿ #
+# æˆ‘çš„ç¬¬ä¸€ä¸ªGitHubé¡¹ç›® #
 
-ÕâÊÇÏîÄ¿**helloworld**£¬
-»¶Ó­·ÃÎÊ¡£
+è¿™æ˜¯é¡¹ç›®**helloworld**ï¼Œ
+æ¬¢è¿è®¿é—®ã€‚
 
-Õâ¸öÏîÄ¿µÄ°æ±¾¿âÊÇ *Git¸ñÊ½* £¬ÔÚ Windows¡¢Linux¡¢
-Mac OS X Æ½Ì¨¶¼¿ÉÒÔ·ÃÎÊ¡£ÉõÖÁÄã¿ÉÒÔÓÃ `svn` ºÍ `hg`
-ÃüÁîÀ´·ÃÎÊ¡£
+è¿™ä¸ªé¡¹ç›®çš„ç‰ˆæœ¬åº“æ˜¯ *Gitæ ¼å¼* ï¼Œåœ¨ Windowsã€Linuxã€
+Mac OS X å¹³å°éƒ½å¯ä»¥è®¿é—®ã€‚ç”šè‡³ä½ å¯ä»¥ç”¨ `svn` å’Œ `hg`
+å‘½ä»¤æ¥è®¿é—®ã€‚
 
-## °æ±¾¿âµØÖ· ##
+## ç‰ˆæœ¬åº“åœ°å€ ##
 
-Ö§³ÖÁ½ÖÖ·ÃÎÊĞ­Òé£º 
+æ”¯æŒä¸¤ç§è®¿é—®åè®®ï¼š 
 
-* HTTPĞ­Òé£º https://github.com/gotgithub/helloworld.git
-* SSHĞ­Òé£º git@github.com:isuhao/helloworld.git
+* HTTPåè®®ï¼š https://github.com/gotgithub/helloworld.git
+* SSHåè®®ï¼š git@github.com:isuhao/helloworld.git
 
-## ¿ËÂ¡°æ±¾¿â ##
+## å…‹éš†ç‰ˆæœ¬åº“ ##
 
-²Ù×÷Ê¾Àı£º
+æ“ä½œç¤ºä¾‹ï¼š
 
     $ git clone https://github.com/isuhao/helloworld.git
+    
+## å¼€æºåè®® ##
+
+ Apache License Version 2.0.
